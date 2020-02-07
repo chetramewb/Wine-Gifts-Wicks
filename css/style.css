@@ -192,7 +192,7 @@ body{font-size:16px; margin:0 auto; font-family: 'Montserrat', sans-serif; }
 	right: 30px;
 }
 
- 
+  
 .bordered {
 	float: right;
 	margin-top: 138px;
@@ -244,7 +244,7 @@ body{font-size:16px; margin:0 auto; font-family: 'Montserrat', sans-serif; }
 	transition: all ease-in-out 0.5s;
 	text-decoration: none;
 }
-
+/*************
 .bordered::after {
 	position: absolute;
 	content: "";
@@ -258,15 +258,15 @@ body{font-size:16px; margin:0 auto; font-family: 'Montserrat', sans-serif; }
 	z-index: 998;
 	width: 113px;
 	height: 113px;
-}
-/***************
+}*******************/
+ 
 .slide-full{
 	background-image: url(../images/banner-bg.png);
 	background-size: cover;
 	height: 965px;
 	object-fit: cover;
 	background-repeat: no-repeat;
-}
+} 
  
 .banner-text {
 	position: absolute;
