@@ -1091,6 +1091,7 @@ footer {
 	position: relative;
 	z-index: 99999999;
 	margin-top: 100px;
+	padding: 35px 0px;
 }
 
 .footer-text-heading h5 {
